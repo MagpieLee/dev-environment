@@ -4,5 +4,12 @@ code-server --install-extension dbaeumer.vscode-eslint
 code-server --install-extension esbenp.prettier-vscode
 code-server --install-extension ms-python.isort
 code-server --install-extension ms-python.python
-code-server --install-extension svelte.svelte-vscode
 
+# Extensions for bash shell
+code-server --install-extension remisa.shellman
+code-server --install-extension mkhl.shfmt
+
+# Extensions for JavaScript
+code-server --install-extension ms-vscode.js-debug
+code-server --install-extension svelte.svelte-vscode
+code-server --install-extension ritwickdey.LiveServer
