@@ -13,3 +13,7 @@ code-server --install-extension mkhl.shfmt
 code-server --install-extension ms-vscode.js-debug
 code-server --install-extension svelte.svelte-vscode
 code-server --install-extension ritwickdey.LiveServer
+code-server --install-extension xabikos.JavaScriptSnippets
+
+# General coding
+code-server --install-extension aaron-bond.better-comments
